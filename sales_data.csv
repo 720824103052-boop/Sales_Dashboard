@@ -1,0 +1,9 @@
+Order Date,Product,Category,Region,Sales,Profit
+2025-01-01,Laptop,Electronics,North,50000,10000
+2025-01-05,Phone,Electronics,South,30000,5000
+2025-01-10,Table,Furniture,East,15000,3000
+2025-01-12,Chair,Furniture,West,12000,2500
+2025-02-01,Laptop,Electronics,North,60000,12000
+2025-02-05,Phone,Electronics,South,35000,7000
+2025-02-10,Sofa,Furniture,East,25000,4000
+2025-02-15,Headphones,Electronics,West,10000,2000
